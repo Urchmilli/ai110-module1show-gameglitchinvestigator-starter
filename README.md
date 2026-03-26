@@ -26,10 +26,15 @@ It wrote the code, ran away, and now the game is unplayable.
 ## 📝 Document Your Experience
 
 - [ ] Describe the game's purpose.
+The game purpose was to test my use on AI as a tool for enhancing my architecting and development skill
 - [ ] Detail which bugs you found.
+I found several bug, and i Used the tool to properly refactor my code
 - [ ] Explain what fixes you applied.
+I applied fix to the wrong warning message, to the erroneous scoring etc
+
 
 ## 📸 Demo
+
 
 - [ ] [Insert a screenshot of your fixed, winning game here]
 

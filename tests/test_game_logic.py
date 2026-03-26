@@ -1,4 +1,4 @@
-from logic_utils import check_guess
+from ../logic_utils import check_guess
 
 def test_winning_guess():
     # FIX: Updated tests to properly unpack tuple return value (outcome, message) with Copilot
